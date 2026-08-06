@@ -1,2 +1,3 @@
-# New-project
-This is my new project on github repository ,and learn about github readme
+# New desine development
+This is my new project on github repository for desine logo,banner,photo,file,etc
+
